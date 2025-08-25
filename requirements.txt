@@ -1,0 +1,15 @@
+﻿# Regresión lineal: predicción de peso
+
+Ejecuta:
+
+```bash
+python regresionlineal.py
+
+
+### `requirements.txt`
+```powershell
+@'
+pandas
+scikit-learn
+matplotlib
+seaborn
